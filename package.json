@@ -1,0 +1,13 @@
+{
+  "name": "kinchi-premium-telegram-bot",
+  "version": "1.0.0",
+  "description": "https://github.com/rogerhokp/kinchi-premium-telegram-bot",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
